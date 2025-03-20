@@ -4,4 +4,4 @@
 <h1 align="center">TerminalExplore</h1>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TerminalExploit&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TerminalExplore&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
