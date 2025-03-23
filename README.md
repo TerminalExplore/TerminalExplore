@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">Hi, my name is Artem 👋</h1>
 
-**I started my way to IT at school, when I was interested in Pascal development in computer science classes. Since then, I've tried different directions and programming languages, and I recently switched from frontend development to backend. Since the backend seemed to me more interesting than the frontend.
-At the moment, I am actively studying Python backend development, as well as system and network administration in college.**
 
 <h1 align="center">
   
